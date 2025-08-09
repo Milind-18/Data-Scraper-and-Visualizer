@@ -1,0 +1,10 @@
+requests
+pandas
+plotly
+openai
+load_dotenv
+kaleido
+wordcloud 
+matplotlib
+
+
